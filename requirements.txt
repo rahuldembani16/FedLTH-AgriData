@@ -1,0 +1,7 @@
+torch
+torchvision
+fedlab
+torch_pruning
+pandas
+scikit-learn
+numpy
