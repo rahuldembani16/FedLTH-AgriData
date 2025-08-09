@@ -34,7 +34,7 @@ This project successfully implements **Federated Learning with Lottery Ticket Hy
 
 ## 🚀 How to Use
 
-### Quick Start
+### Quick Starts
 ```bash
 # Install dependencies
 pip install -r requirements.txt
